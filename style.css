@@ -114,3 +114,14 @@ a {
     max-width: 25%;
     height: 250px;
 }
+
+.watchall{
+    background: #D21B1B;
+    color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 200px;
+    border-radius: 20px;
+}
