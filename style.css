@@ -125,3 +125,15 @@ a {
     margin-top: 200px;
     border-radius: 20px;
 }
+
+.faq{
+    background-color: white;
+    color: black;  
+    border-radius: 10px;
+    width: 15%;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: xx-large;  
+}
