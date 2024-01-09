@@ -138,5 +138,42 @@ a {
     font-size: xx-large;  
 }
 
+.reviews1{
+    background-color: white; 
+    height: 230px;
+    border-radius: 2%;
+    width: 400px;
+}
+
+.reviews2{
+    background-color: white; 
+    height: 210px;
+    border-radius: 2%;
+    width: 400px;
+
+}
+
+.reviews3{
+    background-color: white; 
+    height: 230px;
+    border-radius: 2%;
+    width: 400px; 
+    
+}
+
+.comment1, .comment2, .comment3{
+    text-align: right;        
+}
+
+.naam1, .naam2, .naam3{
+    text-align: left;
+    font-family: Verdana;
+}
+
+.reactie1, .reactie2, .reactie3{
+    font-size: large;
+    font-family: Arial;
+}
+
 
 
