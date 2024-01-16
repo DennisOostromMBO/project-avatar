@@ -115,6 +115,7 @@ a {
     height: 250px;
 }
 
+
 .watchall{
     background: #D21B1B;
     color: #000;
@@ -124,6 +125,7 @@ a {
     transform: translate(-50%, -50%);
     margin-top: 200px;
     border-radius: 20px;
+
 }
 
 .faq{
@@ -174,6 +176,56 @@ a {
     font-size: large;
     font-family: Arial;
 }
+
+.image-container {
+    position: relative;
+    width: 30%; 
+    margin: 10px;
+  }
+
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .watchall1 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+  }
+
+  .watchall2{
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .watchall3 {
+    position: absolute;
+    top: 80px; 
+    right: 0;
+  }
+
+  .watchall4 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .watchall5 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .watchall6 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
 
 
 
