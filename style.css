@@ -210,20 +210,21 @@ a {
 
   .watchall4 {
     position: absolute;
-    bottom: 0;
+    bottom: 80px;
     left: 0;
+   
   }
 
   .watchall5 {
     position: absolute;
-    bottom: 0;
+    bottom: 80px;
     left: 50%;
     transform: translateX(-50%);
   }
 
   .watchall6 {
     position: absolute;
-    bottom: 0;
+    bottom: 80px;
     right: 0;
   }
 
